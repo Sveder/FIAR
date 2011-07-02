@@ -1,11 +1,3 @@
-//
-//  GameContorllerDelegate.m
-//  AnotherFire
-//
-//  Created by pcwiz on 23/06/09.
-//  Copyright 2009 leowiz. All rights reserved.
-//
-
 #import "GameContorllerDelegate.h"
 #import "GameLogic.h"
 

@@ -1,11 +1,3 @@
-//
-//  AnotherFireAppDelegate.m
-//  AnotherFire
-//
-//  Created by pcwiz on 23/06/09.
-//  Copyright leowiz 2009. All rights reserved.
-//
-
 #import "AnotherFireAppDelegate.h"
 #import "AnotherFireViewController.h"
 

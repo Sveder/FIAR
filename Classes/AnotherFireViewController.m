@@ -1,11 +1,3 @@
-//
-//  AnotherFireViewController.m
-//  AnotherFire
-//
-//  Created by pcwiz on 23/06/09.
-//  Copyright leowiz 2009. All rights reserved.
-//
-
 #import <AVFoundation/AVFoundation.h>
 #import "splashview.h"
 #import "AnotherFireViewController.h"

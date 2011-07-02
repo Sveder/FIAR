@@ -1,11 +1,3 @@
-//
-//  GameLogic.h
-//  AnotherFire
-//
-//  Created by pcwiz on 20/06/09.
-//  Copyright 2009 leowiz. All rights reserved.
-//
-
 #import <UIKit/UIKit.h>
 
 @interface Win : NSObject
